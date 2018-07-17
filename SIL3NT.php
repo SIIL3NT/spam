@@ -132,7 +132,7 @@ echo $R."\n::############[WELCOME:MY:HOME]##################";
 
 echo $YY."\n::#: #";
 
-echo $BB."\n::#:Penutor ::[Deden Nefaily Herstain] #";
+echo $BB."\n::#:Author ::[Deden Nefaily Herstain] #";
 
 echo $B."\n::#:Instagram ::[@Mujahidin Al-Hasan:]#";
 
@@ -140,7 +140,7 @@ echo $RR."\n::#:Github ::[http://github.com/SIIL3NT:] #";
 
 echo $R."\n::#:Facebook ::[AndroTech1733:] #";
 
-echo $G."\n::#:YouTube ::[INDOnimous:] #";
+echo $G."\n::#:YouTube ::[SIL3NT GAMING:] #";
 
 echo $GG."\n::#:Whatsapp ::[085798787315] #";
 
