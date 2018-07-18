@@ -134,7 +134,7 @@ echo $YY."\n::#: #";
 
 echo $BB."\n::#:Author ::[Deden Nefaily Herstain] #";
 
-echo $B."\n::#:Instagram ::[@Mujahidin Al-Hasan:]#";
+echo $B."\n::#:Instagram ::[@Mujahidin.AlHasan:]#";
 
 echo $RR."\n::#:Github ::[http://github.com/SIIL3NT:] #";
 
@@ -142,7 +142,7 @@ echo $R."\n::#:Facebook ::[AndroTech1733:] #";
 
 echo $G."\n::#:YouTube ::[SIL3NT GAMING:] #";
 
-echo $GG."\n::#:Whatsapp ::[085798787315] #";
+echo $GG."\n::#:Team ::[SIL3NT - AndroTech1734] #";
 
 echo $YY."\n::#: #";
 
